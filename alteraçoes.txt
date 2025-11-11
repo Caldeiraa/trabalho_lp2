@@ -1,0 +1,8 @@
+o que foi feito no dia 10/11
+criado o trello
+criado repositorio no github
+criado os packages com: 
+controller(classes principais do sistema (ex: Cliente, Produto, Pedido))
+model(classes que controlam a lógica do sistema (Cadastro, Menu))
+repository(salvar e ler dados de arquivos)
+view(interface de texto (menus))
